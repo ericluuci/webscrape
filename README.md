@@ -3,15 +3,23 @@
 This is a webscraper, when given three inputs (platform, region and battletag) will retrieve the available statistics from Blizzard's Career Overview.
 
 '''
+
 What platform do you play on?
+
 Computer - pc, XBOX - xbl, Playstation - psn
+
 Input: **pc**
 
+
 What region do you play on
+
 North America - us, Europe - eu, Korea - kr, China - cn
+
 Input: **us**
 
+
 What is battletag (Ex:Toast-12702)
+
 Input: **Toast-12702**
 
 URL: https://playoverwatch.com/en-us/career/pc/us/Toast-12702
