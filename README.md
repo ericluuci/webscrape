@@ -22,4 +22,4 @@ Input: **Toast-12702**
 URL: https://playoverwatch.com/en-us/career/pc/us/Toast-12702
 ```
 
-The program will create a directory in the current file titled "Stats" which stores all the information found in several excel spreadsheets. Each one spreadsheet is character's entire statistic. Inside each spreadsheet are several individual sheets (up to 9) that stores a character category (Kills, assists, deaths)
+The program will create a directory in the current file titled "Stats" which stores all the information found in several excel spreadsheets. Each one spreadsheet is character's entire statistic. Inside each spreadsheet are several individual sheets (up to 9) that stores a character category (Kills, assists, deaths).
