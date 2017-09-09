@@ -11,6 +11,7 @@ Computer - pc, XBOX - xbl, Playstation - psn
 Input: **pc**
 
 
+
 What region do you play on
 
 North America - us, Europe - eu, Korea - kr, China - cn
@@ -18,9 +19,11 @@ North America - us, Europe - eu, Korea - kr, China - cn
 Input: **us**
 
 
+
 What is battletag (Ex:Toast-12702)
 
 Input: **Toast-12702**
+
 
 URL: https://playoverwatch.com/en-us/career/pc/us/Toast-12702
 ''' 
