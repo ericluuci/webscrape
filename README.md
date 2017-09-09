@@ -1,4 +1,4 @@
-### **Unofficial Overwatch Webscrape Data Pull Written with Python**
+### **Unofficial Overwatch Webscrape Data Pull written with Python**
 
 This is a webscraper, when given three inputs (platform, region and battletag) will retrieve the available statistics from Blizzard's Career Overview.
 
